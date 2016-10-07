@@ -1,6 +1,6 @@
 # TTH_2016 tutorial repository
 
-## Welcom to Teatime Hackathon 2016!
+## Welcome to Teatime Hackathon 2016!
 
 このリポジトリにはTeaTimeHackathon2016で、参加者の皆さまがすぐに使えるサンプルコードを用意しています。
 上の緑色のボタン "clone or download" から、zipでダウンロードできます。
