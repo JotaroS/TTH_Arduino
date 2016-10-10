@@ -16,6 +16,6 @@ void loop()
     int sensorValue = analogRead(pinSound);   //read the sensorValue on Analog 0
     if(sensorValue>thresholdValue)
     digitalWrite(pinLed,HIGH);
-    delay(1);
+    else
     digitalWrite(pinLed,LOW);
 }
